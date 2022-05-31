@@ -14,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cihan-gl&show_icons=true&locale=en&layout=compact" alt="cihan-gl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cihan-gl&show_icons=true&locale=en" alt="cihan-gl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cihan-gl&" alt="cihan-gl" /></p>
